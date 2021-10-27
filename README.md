@@ -4,3 +4,4 @@ This project is about:
 * Estimating the height of this moving granular material through a Spatio-temporal figure.
 
 
+![alt text](schema-1.jpg "The project's approach")
